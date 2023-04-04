@@ -1,9 +1,14 @@
+
+
 export async function GET(request:  Request){
     //connect to ms azure  function
-
-    const response = await fetch('...',{
-      cache:'no-store',
-    })
+    const response = await fetch(
+      "https://ai-image-generate.azurewebsites.net/api/getchatgptsuggestion",
+      {
+        //mode: "no-cors",
+        cache:"no-store",
+      }
+    );
 
     const textData = await response.text();
 
@@ -11,3 +16,4 @@ export async function GET(request:  Request){
         status:200,
     } );
 }
+

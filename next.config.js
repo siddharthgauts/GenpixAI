@@ -4,8 +4,11 @@ const nextConfig = {
     appDir: true,
   },
   images:{
-    domains:["links.papareact.com"]
-  }
-}
+    domains:[
+      "links.papareact.com",
+      "aiimagegenerate545aa4.blob.core.windows.net",
+  ],
+  },
+};
 
 module.exports = nextConfig
