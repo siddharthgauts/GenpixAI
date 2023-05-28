@@ -1,4 +1,4 @@
-#Hi everyone,
+# Hi everyone,
 Here is my webapp that I had made using typescript.js, html, css, node.js so on more languages and frameworks. This  is the one of the best projectI had made.
 Comming to the point GenpixAI convert your any input text into image. I had also implemented a suggestion section so the website an suggest you about like what is likely to be input. 
 Talking about API I had implemented ChatGPT as well as DALL-E API together which is really cool.
