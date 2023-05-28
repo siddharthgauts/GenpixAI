@@ -20,4 +20,8 @@ Below are the Frontend UI as well as backend server along with test samples that
 ![Screenshot (398)](https://github.com/siddharthgauts/GenpixAI/assets/95357196/1f318e01-f2c8-4380-ab2c-5dd9dc823b93)
 ![Screenshot (399)](https://github.com/siddharthgauts/GenpixAI/assets/95357196/ba840ee2-7d62-4f57-b0fc-da3d5d37e083)
 ![Screenshot (400)](https://github.com/siddharthgauts/GenpixAI/assets/95357196/dd312067-05a7-4751-bb3b-53c6fe187c26)
+![Screenshot (607)](https://github.com/siddharthgauts/GenpixAI/assets/95357196/9b51b229-23b0-4c7a-87db-f0f38de9bc18)
+![Screenshot (608)](https://github.com/siddharthgauts/GenpixAI/assets/95357196/c4adf144-9520-427a-a256-c5a521c86e7e)
+![Screenshot (609)](https://github.com/siddharthgauts/GenpixAI/assets/95357196/bbbeea02-e277-4f4d-8761-e325c0734293)
+
 
