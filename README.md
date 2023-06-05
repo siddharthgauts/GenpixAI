@@ -1,6 +1,6 @@
 # Hi Everyone,
 
-Here is my web app that I had made using TypeScript, HTML, CSS, Node.js, and many more languages and frameworks.
+Here is my web app that I had made using TypeScript, JavaScript, HTML, CSS, Node.js and many frameworks.
 This is one of the best projects I have made. Coming to the point, GenpixAI converts any input text into an image.
 
 I have also implemented a suggestion section so the website can suggest what is likely to be input.
