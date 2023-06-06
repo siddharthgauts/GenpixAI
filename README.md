@@ -19,7 +19,8 @@ Below are the Frontend UI as well as backend server along with test samples that
 
 ![Screenshot (396)](https://github.com/siddharthgauts/GenpixAI/assets/95357196/90ffbfc2-75ab-4249-8d48-387ec5efa03f)
 
-![Screenshot (397)](https://github.com/siddharthgauts/GenpixAI/assets/95357196/b9a29073-6c2a-4e5b-99ea-505f43ade2bc)
+![Screenshot (388)](https://github.com/siddharthgauts/GenpixAI/assets/95357196/85ae61bf-2bca-4047-b0ce-0b35264c8780)
+
 
 # Had used VScode for development
 
